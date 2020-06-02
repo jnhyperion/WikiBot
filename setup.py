@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="wiki-bot",
+    name="my-wiki-bot",
     version="0.0.1",
     author="Johnny Huang",
     author_email="jnhyperion@gmail.com",
