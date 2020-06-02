@@ -2,22 +2,18 @@ WikiBot
 =============
 This is a simple wrapper of `atlassian-python-api` for complex page content modification.
 
--------
 Install
-
 -------
 ``` sh
 $ pip install wiki-bot
 ```
 
 Feature
-
 -------
 * Only 1 method extended `modify_content_with_bs4`.
 * This method needs a modification callback input, which allows user to access and modify the page content `bs4.BeautifulSoup` object.
 
 Example
-
 -------
 ``` python
 from bs4 import BeautifulSoup
