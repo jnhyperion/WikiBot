@@ -1,6 +1,6 @@
 WikiBot
 =============
-This is a simple wrapper of `atlassian-python-api` for complex page content modification.
+This is a simple wrapper of `atlassian-python-api` for complex confluence page content modification.
 
 Install
 -------
