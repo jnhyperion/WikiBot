@@ -5,7 +5,7 @@ This is a simple wrapper of `atlassian-python-api` for complex confluence page c
 Install
 -------
 ``` sh
-$ pip install wiki-bot
+$ pip install my-wiki-bot
 ```
 
 Feature
